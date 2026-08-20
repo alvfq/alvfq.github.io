@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research 
+title: research 
 description: Translational clinical AI, from a user-centred perspective and focus on decision-support systems.
 nav: true
 nav_order: 2
