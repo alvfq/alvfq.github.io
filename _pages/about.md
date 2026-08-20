@@ -28,6 +28,6 @@ latest_posts:
 
 I am an Associate Professor of Artificial Intelligence at the University of Stavanger, where I currently lead the **<a href="https://www.uis.no/en/research/stavanger-ai-lab/technology-and-natural-sciences/stavanger-ai-lab">Stavanger AI Laboratory (SAIL)</a>**.
 
-My research field is **translational clinical AI**. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. I approach it from a user-centred perspective, with a focus on decision-support systems: tools that help the user make decisions, built around those who will use them and accounting for the healthcare settings they will be used in.
+My research field is **translational clinical AI**. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. I approach it from a user-centred perspective, with a focus on decision-support systems: tools that help the user make decisions, built around the needs of those who will use them and accounting for the healthcare settings they will be used in.
 
 I currently supervise four doctoral candidates [research](/research/). If you are interested in a PhD or postdoc position, or in collaborating, please write to me at alvaro.f.quilez@uis.no.
