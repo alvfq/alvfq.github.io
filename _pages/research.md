@@ -21,8 +21,8 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 Four doctoral candidates, across the three directions.
 
-| Candidate | Topic | Direction | Role | Status |
-|---|---|---|---|---|
+| Candidate | Topic | Direction | Role | Collaborators |Status |
+|---|---|---|---|---|---|
 | [Anna Kurbatskaya](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Responsible AI and Decision-support | 1,2 | Main supervisor | Completed 2025 |
 | [Solveig K. Hammonds](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, Fairness and Decision-support | 1,2 | Main supervisor | Completed 2026 |
 | [Aleksandra Jankovic](https://muzziball.no/om-oss/) | User-centred  | 3 | Main supervisor | On-going |
