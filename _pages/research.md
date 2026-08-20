@@ -25,8 +25,8 @@ Four doctoral candidates, across the three directions.
 |---|---|---|---|---|
 | [Anna Kurbatskaya](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Responsible AI and Decision-support | 1,2 | Main supervisor | Completed 2025 |
 | [Solveig K. Hammonds](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, Fairness and Decision-support | 1,2 | Main supervisor | Completed 2026 |
-| [Name](https://link-to-their-page) | User-centred digitalization in clinics | 3 | Co-supervisor | Near completion |
-| [Name](https://link-to-their-page) | Clinical decision-support | 1 | Main supervisor | Ongoing |
+| [Aleksandra Jankovic](https://muzziball.no/om-oss/) | User-centred  | 3 | Main supervisor | On-going |
+| [Thinakone Louangdy](https://explorers.nationalgeographic.org/directory/thinakone-louangdy) | Decision support and User-centered | 1,3 | Main supervisor | Ongoing |
 | [Name](https://link-to-their-page) | Psychology-informed evaluation and reliability | 2 & 3 | Co-supervisor | Ongoing |
 
 <!--
