@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Translational clinical AI, from a user-centred perspective.
+description: Translational clinical AI, from a user-centred perspective and focus on decision-support systems.
 nav: true
 nav_order: 2
 toc:
@@ -19,7 +19,7 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 ## Doctoral supervisions
 
-Five doctoral candidates, across the three directions.
+Four doctoral candidates, across the three directions.
 
 | Candidate | Topic | Direction | Role | Status |
 |---|---|---|---|---|
