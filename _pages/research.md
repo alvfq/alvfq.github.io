@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-My research field is translational clinical AI. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. A model can perform well in a validation study and still not be usable by the clinicians it was built for; the distance between those two points is where my work sits.
+My research field is translational clinical AI. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. A model can perform well in a validation study and still not be usable by the healthcare users and context it was built for; the distance between those two points is where my work sits.
 
 I approach this from a user-centred perspective, with a focus on decision-support systems. My work can therefore be organized into three complementary directions:
 
@@ -17,52 +17,7 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 2. **Assurance of their trustworthiness**, establishing the reliability, robustness and fairness that a clinical context demands.
 3. **Sociotechnical evaluation** of how systems fit the context, studying not only the tool but the people, teams and workflows around it.
 
-These are one research programme rather than three separate interests. Across all of them the user and their clinical context are the reference point, and a single system can travel the whole path from development through assurance to evaluation.
-
----
-
-## 1. User-centred development
-
-I develop and clinically validate decision-support systems and other clinical AI models. Rather than building a model and asking afterwards how it might be deployed, I design around the intended users and their setting from the outset, so that fit is built in rather than added later.
-
-<!--
-  Expand with 2-3 sentences of specifics: which clinical domains, what kinds of
-  model, what "user-centred" concretely means in your process (early clinician
-  involvement? requirements elicitation? iterative prototyping?). This is the
-  section a prospective PhD student reads to decide whether to write to you, and
-  it is currently the thinnest of the three.
--->
-
-*Selected work:* <!-- insert 2-3 representative papers, e.g. {% cite key2025 %} -->
-
----
-
-## 2. Assurance of trustworthiness
-
-I assure that these systems meet the reliability, robustness and fairness their clinical context demands. What a given context demands is itself part of the question: the bar is set by the consequences of failure and by who bears them, not by a fixed benchmark.
-
-This direction carries my strongest evidence of independent research leadership — two doctoral theses supervised to completion.
-
-<!--
-  Expand: which methods, which failure modes, how you establish that a system
-  meets the bar rather than merely scores well.
--->
-
-*Selected work:* <!-- insert 2-3 representative papers -->
-
----
-
-## 3. Sociotechnical evaluation
-
-I evaluate how systems fit their context of use, studying not only the tool but the people, teams and workflows around it — whether with users directly or through a user lens, using methods such as the simulation of realistic scenarios.
-
-This is my newest and most original direction, and the one where the questions are least settled: what a system does to a clinical team is harder to measure than what it does to a test set.
-
-*Selected work:* <!-- insert 2-3 representative papers -->
-
----
-
-## Doctoral supervision
+## Doctoral supervisions
 
 Five doctoral candidates, across the three directions.
 
