@@ -22,7 +22,7 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 Four doctoral candidates, across the three directions.
 
 | Candidate | Topic | Direction | Role | Collaborators |Status |
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | [Anna Kurbatskaya](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Reliability, fairness and decision-support | 1,2 | Main supervisor | [Stavanger University Hospital](https://www.helse-stavanger.no) | Completed in 2025 |
 | [Solveig K. Hammonds](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, fairness and decision-support | 1,2 | Main supervisor |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/)| Completed in 2026 |
 | [Aleksandra Jankovic](https://muzziball.no/om-oss/) | User-centred  | 3 | Main supervisor | [Muzziball](https://muzziball.no/en/home-en/)| Ongoing |
