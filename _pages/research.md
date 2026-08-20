@@ -19,15 +19,15 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 ## Doctoral supervisions
 
-| Candidate | Topic | Direction | Role | Collaborators |Status |
+| Candidate | Topic | Direction | Collaborators |Status |
 |:---:|:---:|:---:|:---:|:---:||:---:|
-| [Anna K.](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Reliability, fairness and decision-support | 1,2 | Main supervisor | [Stavanger University Hospital](https://www.helse-stavanger.no) | Completed in 2025 |
-| [Solveig K.H.](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, fairness and decision-support | 1,2 | Main supervisor |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/)| Completed in 2026 |
-| [Aleksandra J.](https://muzziball.no/om-oss/) | User-centred  | 3 | Main supervisor | [Muzziball](https://muzziball.no/en/home-en/)| Ongoing |
+| [Anna K.](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Reliability, fairness and decision-support | 1,2 | [Stavanger University Hospital](https://www.helse-stavanger.no) | Completed in 2025 |
+| [Solveig K.H.](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, fairness and decision-support | 1,2 |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/)| Completed in 2026 |
+| [Aleksandra J.](https://muzziball.no/om-oss/) | User-centred  | 3 | [Muzziball](https://muzziball.no/en/home-en/)| Ongoing |
 | [Thinakone L.](https://explorers.nationalgeographic.org/directory/thinakone-louangdy) | Decision support and user-centered | 1,3 | Main supervisor | [Stavanger University Hospital (KORFOR)](https://www.helse-stavanger.no/fag-og-forskning/kompetansetjenester/regionalt-kompetansesenter-for-rusmiddelforskning-i-helse-vest-korfor) | Ongoing |
-| [John M.]() | Decison-support, fairness and reliability | 1, 2 | Co-supervisor | [Stavanger University Hospital (TIPS - Centre for Clinical Research in Psychosis)](https://www.tips-info.com), [UCD Dublin](https://www.ucd.ie) and [University of Birmingham](https://www.birmingham.ac.uk)| Ongoing |
-| [Espen T.]() | Decision-support | 1 | Main supervisor |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/), [Karolinska Institutet](https://ki.se/en)| Ongoing |
-| [Øystein K.]() | Decision-support | 1 | Main supervisor |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/), [Karolinska Institutet](https://ki.se/en)| Ongoing |
+| [John M.]() | Decison-support, fairness and reliability | 1, 2 | [Stavanger University Hospital (TIPS - Centre for Clinical Research in Psychosis)](https://www.tips-info.com), [UCD Dublin](https://www.ucd.ie) and [University of Birmingham](https://www.birmingham.ac.uk)| Ongoing |
+| [Espen T.]() | Decision-support | 1 |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/), [Karolinska Institutet](https://ki.se/en)| Ongoing |
+| [Øystein K.]() | Decision-support | 1 |[Stavanger University Hospital (Department of Radiology, SMIL)](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/), [Karolinska Institutet](https://ki.se/en)| Ongoing |
 
 
 <!--
