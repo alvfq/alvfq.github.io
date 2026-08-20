@@ -19,8 +19,6 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 ## Doctoral supervisions
 
-Four doctoral candidates, across the three directions.
-
 | Candidate | Topic | Direction | Role | Collaborators |Status |
 |:---:|:---:|:---:|:---:|:---:||:---:|
 | [Anna Kurbatskaya](https://www.nb.no/items/c75f9781db2b9dd37cdc6ff40af52ad6?page=0) | Reliability, fairness and decision-support | 1,2 | Main supervisor | [Stavanger University Hospital](https://www.helse-stavanger.no) | Completed in 2025 |
