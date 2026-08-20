@@ -13,7 +13,7 @@ My research field is translational clinical AI. That is, developing clinical AI 
 
 I approach this from a user-centred perspective, with a focus on decision-support systems. My work can therefore be organized into three complementary directions:
 
-1. **User-centred development of decision-support systems**, development of AI decision-support systems inspired by users, their needs and their contexts.
+1. **User-centred development of decision-support systems**, developing AI decision-support systems inspired by users, their needs and their contexts.
 2. **Assurance of their trustworthiness**, establishing the reliability, robustness and fairness that a clinical context demands.
 3. **Sociotechnical evaluation** of how systems fit the context of use, both with users and from a user perspective.
 
