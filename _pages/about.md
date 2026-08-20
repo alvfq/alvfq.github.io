@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Electrical Engineering and Computer Science, University of Stavanger.</a>. 
+subtitle: <a href='#'>Department of Electrical Engineering and Computer Science, University of Stavanger</a>. 
 
 profile:
   align: right
