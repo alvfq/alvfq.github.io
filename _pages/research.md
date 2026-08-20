@@ -27,7 +27,7 @@ Four doctoral candidates, across the three directions.
 | [Solveig K. Hammonds](https://www.uis.no/nb/forskning/arrangementer/helse-og-velferd/disputas-for-solveig-kristina-hammonds) | Reliability, Fairness and Decision-support | 1,2 | Main supervisor |[Stavanger University Hospital, Department of Radiology, SMIL](https://www.helse-stavanger.no/fag-og-forskning/forskning-i-helse-stavanger/forskningsgrupper/radiologi/)| Completed in 2026 |
 | [Aleksandra Jankovic](https://muzziball.no/om-oss/) | User-centred  | 3 | Main supervisor | [Muzziball](https://muzziball.no/en/home-en/)| Ongoing |
 | [Thinakone Louangdy](https://explorers.nationalgeographic.org/directory/thinakone-louangdy) | Decision support and User-centered | 1,3 | Main supervisor | [Stavanger University Hospital, KORFOR](https://www.helse-stavanger.no/fag-og-forskning/kompetansetjenester/regionalt-kompetansesenter-for-rusmiddelforskning-i-helse-vest-korfor) | Ongoing |
-| [John Mullen]() | Decison-support, Fairness and Reliability | 1 & 2 | Co-supervisor | [Stavanger University Hospital, TIPS Centre for Clinical Research in Psychosis](https://www.tips-info.com), [UCD Dublin](https://www.ucd.ie) and [University of Birmingham](https://www.birmingham.ac.uk)| Ongoing |
+| [John Mullen]() | Decison-support, Fairness and Reliability | 1, 2 | Co-supervisor | [Stavanger University Hospital, TIPS Centre for Clinical Research in Psychosis](https://www.tips-info.com), [UCD Dublin](https://www.ucd.ie) and [University of Birmingham](https://www.birmingham.ac.uk)| Ongoing |
 
 <!--
   * FILL IN names, roles and years — I have guessed main/co-supervisor
