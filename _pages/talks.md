@@ -35,6 +35,7 @@ toc:
 
 **2024**
 - *AI and digital education: buzzwords and reflections* **Content**: AI development within education, challenges and possibilities **Place**: University of Stavanger, **Organization**: [University of Stavanger](https://www.uis.no/nb), **Audience**: Academics, **Language**: English, September 2024.
+- *Artificial intelligence: An introduction* **Content**: Introduction to machine learning, deep learning, generative AI and their differences **Place**: Online, **Organization**: [Equinor](https://www.equinor.com/no), **Audience**: Departments of Marine operations, geotechnical, geophysical and survey **Language**: English, October 2024.
 
 ---
 
