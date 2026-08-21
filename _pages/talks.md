@@ -60,16 +60,11 @@ toc:
 -->
 
 ---
-
-## Workshops and tutorials
+## Organising and service
 
 **2026**
 
 - *Workshop title.* Role (organiser, co-organiser, tutorial lead). Venue, City. Month 2026.
-
----
-
-## Organising and service
 
 <!--
   Programme committees, area chairing, reviewing, session chairing, panels,
