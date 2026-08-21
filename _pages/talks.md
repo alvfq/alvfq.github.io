@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Invited talks, conference presentations and workshops.
+description: Invited talks, conference presentations and other community service.
 nav: true
 nav_order: 4
 toc:
