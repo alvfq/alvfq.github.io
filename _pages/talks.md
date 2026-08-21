@@ -29,7 +29,8 @@ toc:
 
 - *From instructions to insights* - **Content**: Introduction to generative AI and responsible use of AI **Place**: University of Stavanger (Stavanger, Norway), **Organization**: University of Stavanger[https://www.uis.no/nb], **Audience**: Administrative personnel, **Language**: English, February 2025.
 - *An overview of my research - what is going on?* **Content**: Introduction to my on-going and past projects. **Place**: St. Olavs Hospital/NTNU Trondheim (Trondheim, Norway), **Organization**: NTNU Trondheim[https://www.ntnu.edu/isb], **Audience**: Researchers and healthcare personnel, **Language**: English, March 2025.
-- *At the crossroads: From clinical challenges to AI-driven solutions* **Content**: Adaptive/Personalized and user-centered AI **Place**: Online (international audience), **Organization**: ENFIELD European consortium [https://enfield-project.eu], **Audience**: Academic, **Language**: English, March 2025.
+- *At the crossroads: From clinical challenges to AI-driven solutions* **Content**: Adaptive/Personalized and user-centered AI **Place**: Online (international audience), **Organization**: ENFIELD European consortium [https://enfield-project.eu], **Audience**: Academics, **Language**: English, March 2025.
+- *Artificial Intelligence in healthcare* **Content**: Overview of the state of the field and real-world impact of developments **Place**: Innovation park Stavanger, **Organization**: HelseCampus Stavanger [https://www.uis.no/nb/om-uis/arrangementer/hvordan-kan-ki-skape-merverdi-i-helsetjenesten], **Audience**: Healthcare personnel, Academics, **Language**: English, May 2025.
 
 ---
 
