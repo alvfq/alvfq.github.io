@@ -76,6 +76,7 @@ toc:
   in. They belong here or on the CV — pick one, not both.
 -->
 
+- Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024
 - Programme committee, *Conference name*, 2026.
 - Reviewer, *Journal name*.
 
