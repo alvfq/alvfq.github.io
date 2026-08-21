@@ -1,9 +1,25 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Badge styling for the left margin of the publications page.
+#
+# The key must match the `abbr` value in papers.bib exactly (case-sensitive,
+# and after whitespace trimming). Any abbr with no entry here still renders —
+# it just gets the default theme colour and no link.
+#
+# `color` is any CSS colour. Keep them dark enough for white text.
+# `url` makes the badge clickable; omit it for a plain badge.
 
-"PhysRev":
-  url: https://journals.aps.org/
+Development:
+  color: "#2a6f97"
+  url: /research/
 
-"Vision":
-  color: "#009f36"
+Assurance:
+  color: "#6a4c93"
+  url: /research/
+
+Evaluation:
+  color: "#bc4749"
+  url: /research/
+# If you later want venue badges as well as direction badges, add them here too:
+#
+# ISBI:
+#   color: "#555555"
+#   url: https://biomedicalimaging.org/
