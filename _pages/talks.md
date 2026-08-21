@@ -21,7 +21,7 @@ toc:
 ## Invited talks
 
 **2026**
--  *Bedre informasjon og forståelse for menn gjennom prostatakreftforløpet* **Content**: Presentation of on-going and project proposals to prostatekreftforeningen (prostate cancer association) in Stavanger **Place**: Prostate cancer association headquarters (Stavanger) **Organization**: [Prostatakreftforeningen](https://prostatakreft.no), **Audience**: Patients, men at risk, **Language**: Norwegian, April 2026.
+-  *Bedre informasjon og forståelse for menn gjennom prostatakreftforløpet* **Content**: Presentation of on-going and project proposals to prostatekreftforeningen (prostate cancer association) in Stavanger **Place**: Prostate cancer association headquarters (Stavanger) **Organization**: [Prostatakreftforeningen](https://prostatakreft.no), **Audience**: Patients and men at risk **Language**: Norwegian, April 2026.
 - *Sunn skepsis: Kunstig intelligens og digitalt tilsyn* **Content**: Is a certification stamp (FDA/CE etc) enough to reassure us that a tool will work in clinical practice? **Place**: Quality Hotel Edvard Grieg **Organization**: [HVL/DigitalHelse klynge](https://alrekhelseklynge.no/arrangementer/digitalhelse26/), **Audience**: Healthcare professionals, **Language**: English/Norwegian, May 2026.
 
 **2025**
