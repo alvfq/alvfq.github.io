@@ -22,8 +22,7 @@ toc:
 
 **2026**
 
-- *Title of the talk.* Host institution or event, City, Country. Month 2026.
-- *Title of the talk.* Host institution or event, City, Country. Month 2026.
+- *Sunn skepsis: Kunstig intelligens og digitalt tilsyn* **Content**: Is a certification stamp (FDA/CE etc) enough to reassure us that a tool will work in clinical practice? **Place**: Quality Hotel Edvard Grieg **Organization**: [HVL/DigitalHelse klynge](https://alrekhelseklynge.no/arrangementer/digitalhelse26/), **Audience**: Healthcare professionals, **Language**: English/Norwegian, May 2026.
 
 **2025**
 
