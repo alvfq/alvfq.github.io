@@ -353,8 +353,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Fernandez-Quilez]
-  first_name: [Alvaro]
+  last_name: [Fernandez-Quilez, Fernandez]
+  first_name: [Alvaro, A., Álvaro]
 
   style: apa
   locale: en
