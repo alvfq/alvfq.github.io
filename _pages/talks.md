@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Invited talks, conference presentations, and workshops.
+description: Invited talks, conference presentations and workshops.
 nav: true
 nav_order: 4
 toc:
@@ -27,7 +27,9 @@ toc:
 
 **2025**
 
-- *Title of the talk.* Host institution or event, City, Country. Month 2025.
+- *From instructions to insights* - Content: Introduction to generative AI and responsible use of AI Place: University of Stavanger (Stavanger, Norway), Audience: Administration personnel, Language: English, February 2025.
+- *An overview of my research - what is going on?* Content: Place: St. Olavs Hospital/NTNU Trondheim (Trondheim, Norway), Audience: Researchers and healthcare personnel, Language: English, March 2025.
+
 
 ---
 
