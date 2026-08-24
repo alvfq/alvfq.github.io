@@ -60,6 +60,7 @@ toc:
   
 **2024**
 - *Diversity & Disparities in Healthcare: AI as a perpetrator or as a solution?* **Content**: On fairness in healthcare and the role of AI **Place**: UiT, Tromsø, **Organization**: [NLDL conference, diversity in healthcare](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Audience**: Academics, **Language**: English, January 2024.
+- *Wonderful world: The science of AI* **Content**: Introduction to AI and technical aspects in layman words **Place**: Tou Scene (Stavanger), **Organization**: [Wonderful world festival](https://www.kaakaa.no/program/the-science-of-ai), **Audience**: Diverse, **Language**: English, June 2024.
 
 <!--
   Put slide decks and posters in assets/pdf/ and link them as above. Slides are
