@@ -26,6 +26,7 @@ toc:
 
 **2025**
 
+- *KI/AI: Kunstig Intelligens* **Content**: Introduction to what is AI, what can we use it, what are its problems and where are we heading in layman words. **Place**: Stavanger cinema **Organization**: [Pensjonistuniversitetet](https://www.pustavanger.net/terminliste/kalender/vis/?id=666926), **Audience**: Diverse, **Language**: Norwegian, February 2025.
 - *Generative AI, a premier* **Content**: How can you, as an executive assistant or administrative professional, use generative AI to work smarter and more efficiently? Introduction to generative AI possibilities. **Place**: Sola strand hotel **Organization**: [IMA havtil](https://www.ima-network.org/event-5984685), **Audience**: Administrative personnel or executive assistants, **Language**: English, February 2025.
 - *From instructions to insights* **Content**: Introduction to generative AI and responsible use of AI **Place**: University of Stavanger (Stavanger, Norway), **Organization**: [University of Stavanger](https://www.uis.no/nb), **Audience**: Administrative personnel, **Language**: English, February 2025.
 - *An overview of my research - what is going on?* **Content**: Introduction to my on-going and past projects. **Place**: St. Olavs Hospital/NTNU Trondheim (Trondheim, Norway), **Organization**: [NTNU Trondheim](https://www.ntnu.edu/isb), **Audience**: Researchers and healthcare personnel, **Language**: English, March 2025.
