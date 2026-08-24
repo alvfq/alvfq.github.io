@@ -31,6 +31,9 @@ Lectures given within courses taught by others.
 
 - *Lecture topic.* Course Name, Institution. Month 2025. <!-- annual invitations: see the note below -->
 
+**2024**
+- *Artificial Intelligence: friend or foe?* [E-MBA270](https://www.uis.no/nb/evu/studietilbud/endringsledelse-e-mba270), University of Stavanger. May 2024.
+
 <!--
   RECURRING INVITATIONS
 
