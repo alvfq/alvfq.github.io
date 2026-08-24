@@ -62,10 +62,10 @@ toc:
 - *Title of the paper.* Conference name (abbreviation), City, Country. Month 2026. [Slides](/assets/pdf/slides.pdf) · [Poster](/assets/pdf/poster.pdf)
 
 **2025**
-
+- *Recommender systems in the era of LL(V)Ms* **Content**: How can LL(V)Ms be leveraged as recommender/decision-support systems, and why is this interesting compared to the alternatives? **Place**: University of Stavanger, Stavanger (Norway) **Organization**: [University of Stavanger](https://www.uis.no/en/about-uis/events/conference-on-educational-process-data), **Audience**: Researchers, academic and teachers **Language**: English, September 2025.
   
 **2024**
-- *Diversity & Disparities in Healthcare: AI as a perpetrator or as a solution?* **Content**: On fairness in healthcare and the role of AI **Place**: UiT, Tromsø, **Organization**: [NLDL conference, diversity in healthcare](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Audience**: Academics, **Language**: English, January 2024.
+- *Diversity & Disparities in Healthcare: AI as a perpetrator or as a solution?* **Content**: On fairness in healthcare and the role of AI **Place**: UiT, Tromsø (Norway) **Organization**: [NLDL conference, diversity in healthcare](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Audience**: Academics, **Language**: English, January 2024.
 - *Wonderful world: The science of AI* **Content**: Introduction to AI and technical aspects in layman words **Place**: Tou Scene (Stavanger), **Organization**: [Wonderful world festival](https://www.kaakaa.no/program/the-science-of-ai), **Audience**: Diverse, **Language**: English, June 2024.
 
 <!--
