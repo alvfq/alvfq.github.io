@@ -24,15 +24,12 @@ Lectures given within courses taught by others.
 
 **2026**
 
-- *Lecture topic.* MTE110 Course Name, University of Stavanger. Month 2026. <!-- include the course code where there is one -->
-- *Lecture topic.* Course Name, Institution, City. Month 2026.
 
 **2025**
 
-- *Lecture topic.* Course Name, Institution. Month 2025. <!-- annual invitations: see the note below -->
 
 **2024**
-- *Artificial Intelligence: friend or foe?* [E-MBA270](https://www.uis.no/nb/evu/studietilbud/endringsledelse-e-mba270), University of Stavanger. May 2024.
+- *Artificial Intelligence: friend or foe?* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [E-MBA270](https://www.uis.no/nb/evu/studietilbud/endringsledelse-e-mba270), University of Stavanger. May 2024.
 
 <!--
   RECURRING INVITATIONS
