@@ -31,29 +31,9 @@ Lectures given within courses taught by others.
 **2024**
 - *Artificial Intelligence: friend or foe?* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [E-MBA270](https://www.uis.no/nb/evu/studietilbud/endringsledelse-e-mba270), University of Stavanger. May 2024.
 
-<!--
-  RECURRING INVITATIONS
-
-  If you give the same lecture in the same course every year, don't repeat the
-  entry once per year — it inflates the list and reads as padding. Collapse it:
-
-    *Lecture topic.* Course Name, Institution. Annually, 2022–present.
-
-  A standing invitation is stronger evidence than three separate lines anyway.
-
-  WHERE THE LINE SITS
-
-  A guest lecture is teaching: the audience is students and the content serves
-  someone else's curriculum. A research seminar at another university is an
-  invited talk, even if students attend — the audience is researchers and the
-  content is your own work. Those go on the talks page.
-
-  The test is audience and purpose, not the venue or who invited you.
--->
-
 ## Workshops and tutorials
 
-Sessions I have taught outside the regular course catalogue — conference tutorials, summer schools, and training for clinical or industry audiences.
+Sessions I have taught outside the regular course catalogue, including conference tutorials, summer schools, and training for clinical or industry audiences.
 
 **2026**
 
@@ -64,18 +44,9 @@ Sessions I have taught outside the regular course catalogue — conference tutor
 
 - *Title of the tutorial.* Conference name (ABBR), City, Country. Month 2025.
 
-<!--
-  ONE DISTINCTION WORTH KEEPING
+**2024**
+- *A soft introduction to AI* **Content**: Crash course on AI for students (machine learning, deep learning, differences, use via Python..), Stavanger, Norway. Month 2025.
 
-  Workshops you *taught* belong here. Workshops you *organised* — chairing,
-  assembling a programme, reviewing submissions — are service rather than
-  teaching, and those have stayed on the talks page under "Organising and
-  service". The two read very differently to a committee: one evidences
-  teaching reach, the other standing in the field.
-
-  If a single event was both (you organised it and gave the tutorial), list it
-  in both places with the role made explicit, rather than choosing one.
--->
 
 ## Supervision
 
