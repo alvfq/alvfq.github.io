@@ -40,7 +40,8 @@ toc:
 - *Artificial intelligence: An introduction* **Content**: Introduction to machine learning, deep learning, generative AI and their differences **Place**: Online, **Organization**: [Equinor](https://www.equinor.com/no), **Audience**: Departments of Marine operations, geotechnical, geophysical and survey **Language**: English, October 2024.
 - *(generative) Artificial intelligence: one size fits all?* **Content**: Introduction to generative artificial intelligence from a perspective of trustworthiness **Place**: Gassco (Kopervik, Norway), **Organization**: [Gassco](https://gassco.eu), **Audience**: Gassco workers **Language**: English, November 2024.
 - *AI in education: where are we heading?* **Content**: Introduction to generative artificial intelligence, developments in the field of education and evidence of its impact **Place**: Victoria Hotel (Stavanger, Norway), **Organization**: [Forskerforbundet](https://www.forskerforbundet.no), **Audience**: Academics and researchers **Language**: English, December 2024.
-- *From instructions to insights* **Content**: Introduction to generative artificial intelligence, prompting and agents **Place**: Kitch'n headquarters (Sandnes, Norway) **Organization**: [Kitch'n](https://www.kitchn.no), **Audience**: Industry **Language**: English, December 2024.
+- *Nobel prize explained for everyone: Physics (Geoffrey Hinton)* **Content**: Short explanation of the Nobel prize in physics for everyone (AI - Geoffrey Hinton) **Place**: Library of Stavanger (Norway) **Organization**: [University of Stavanger](https://www.uis.no/nb), **Audience**: Everyone **Language**: English, December 2024.
+
 
 ---
 
