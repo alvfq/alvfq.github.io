@@ -41,6 +41,7 @@ toc:
 - *(generative) Artificial intelligence: one size fits all?* **Content**: Introduction to generative artificial intelligence from a perspective of trustworthiness **Place**: Gassco (Kopervik, Norway), **Organization**: [Gassco](https://gassco.eu), **Audience**: Gassco workers **Language**: English, November 2024.
 - *AI in education: where are we heading?* **Content**: Introduction to generative artificial intelligence, developments in the field of education and evidence of its impact **Place**: Victoria Hotel (Stavanger, Norway), **Organization**: [Forskerforbundet](https://www.forskerforbundet.no), **Audience**: Academics and researchers **Language**: English, December 2024.
 - *Nobel prize explained for everyone: Physics (Geoffrey Hinton)* **Content**: Short explanation of the Nobel prize in physics for everyone (AI - Geoffrey Hinton) **Place**: Library of Stavanger (Norway) **Organization**: [University of Stavanger](https://www.uis.no/nb), **Audience**: Everyone **Language**: English, December 2024.
+- *Generative AI: Opportunities, yes, but also challenges!* **Content**: Generative AI from a trustworthiness perspective. **Place**: Bølgen & Moi (Stavanger **Organization**: [NOSP](https://nosp.no), **Audience**: Industry **Language**: English, December 2024.
 
 
 ---
