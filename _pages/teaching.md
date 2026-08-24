@@ -45,6 +45,7 @@ Sessions I have taught outside the regular course catalogue, including conferenc
 - *Title of the tutorial.* Conference name (ABBR), City, Country. Month 2025.
 
 **2024**
+- *From instructions to insights* **Content**: Introduction to generative artificial intelligence, prompting and agents **Place**: Næringsforeningen (Stavanger, Norway) **Organization**: [Næringsforeningen](https://www.naeringsforeningen.no), **Audience**: Industry, diverse **Language**: English, November 2024.
 - *From instructions to insights* **Content**: Introduction to generative artificial intelligence, prompting and agents **Place**: Kitch'n headquarters (Sandnes, Norway) **Organization**: [Kitch'n](https://www.kitchn.no), **Audience**: Industry **Language**: English, December 2024.
 - *A soft introduction to AI* **Content**: Crash course on AI for students (machine learning, deep learning, differences, use via Python..), **Place**: University of Stavanger (Norway), **Organization**: [NITO](https://www.nito.no), **Audience**: Students (bachelor) **Language**: English, December 2024.
 
