@@ -45,7 +45,7 @@ Sessions I have taught outside the regular course catalogue, including conferenc
 - *Title of the tutorial.* Conference name (ABBR), City, Country. Month 2025.
 
 **2024**
-- *A soft introduction to AI* **Content**: Crash course on AI for students (machine learning, deep learning, differences, use via Python..), Stavanger, Norway. Month 2025.
+- *A soft introduction to AI* **Audience**: [NITO](https://www.nito.no), **Content**: Crash course on AI for students (machine learning, deep learning, differences, use via Python..), Stavanger, Norway. Month 2025.
 
 
 ## Supervision
