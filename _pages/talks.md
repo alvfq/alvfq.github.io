@@ -33,7 +33,6 @@ toc:
 - *Artificial Intelligence in healthcare* **Content**: Overview of the state of the field and real-world impact of developments **Place**: Innovation park Stavanger, **Organization**: [HelseCampus Stavanger](https://www.uis.no/nb/om-uis/arrangementer/hvordan-kan-ki-skape-merverdi-i-helsetjenesten), **Audience**: Healthcare personnel and academics, **Language**: English, May 2025.
 
 **2024**
-- *Diversity & Disparities in Healthcare: AI as a perpetrator or as a solution?* **Content**: On fairness in healthcare and the role of AI **Place**: UiT, Tromsø, **Organization**: [NLDL conference, diversity in healthcare](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Audience**: Academics, **Language**: English, January 2024.
 - *Artificial Intelligence meets radiology* **Content**: Diverse projects in AI applied to radiology practice from a user-centered perspective **Place**: Haven E-sport, **Organization**: [DDV](https://www.facebook.com/events/362149969617153?acontext=%7B%22event_action_history%22%3A[]%7D), **Audience**: Students and academics, **Language**: English, April 2024.
 - *Artificial intelligence: Opportunities and challenges* **Content**: Introduction to AI and challenges from a trustworthiness perspective **Place**: Sola Strand Gård, **Organization**: [Innova](https://event.checkin.no/73361/technology-day), **Audience**: Industry, **Language**: English, September 2024.
 - *AI and digital education: buzzwords and reflections* **Content**: AI development within education, challenges and possibilities **Place**: University of Stavanger, **Organization**: [University of Stavanger](https://www.uis.no/nb), **Audience**: Academics, **Language**: English, September 2024.
@@ -50,11 +49,12 @@ toc:
 **2026**
 
 - *Title of the paper.* Conference name (abbreviation), City, Country. Month 2026. [Slides](/assets/pdf/slides.pdf) · [Poster](/assets/pdf/poster.pdf)
-- *Title of the paper.* Conference name (abbreviation), City, Country. Month 2026.
 
 **2025**
 
-- *Title of the paper.* Conference name (abbreviation), City, Country. Month 2025.
+  
+**2024**
+- *Diversity & Disparities in Healthcare: AI as a perpetrator or as a solution?* **Content**: On fairness in healthcare and the role of AI **Place**: UiT, Tromsø, **Organization**: [NLDL conference, diversity in healthcare](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Audience**: Academics, **Language**: English, January 2024.
 
 <!--
   Put slide decks and posters in assets/pdf/ and link them as above. Slides are
