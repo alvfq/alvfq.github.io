@@ -37,12 +37,7 @@ Sessions I have taught outside the regular course catalogue, including conferenc
 
 **2026**
 
-- *Title of the tutorial.* Half-day tutorial, Conference name (ABBR), City, Country. Month 2026. [Materials](/assets/pdf/tutorial-slides.pdf)
-- *Title of the workshop.* Training for clinical staff, Institution, City. Month 2026.
-
 **2025**
-
-- *Title of the tutorial.* Conference name (ABBR), City, Country. Month 2025.
 
 **2024**
 - *From instructions to insights* **Content**: Introduction to generative artificial intelligence, prompting and agents **Place**: Næringsforeningen (Stavanger, Norway) **Organization**: [Næringsforeningen](https://www.naeringsforeningen.no), **Audience**: Industry, diverse **Language**: English, November 2024.
@@ -58,8 +53,7 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 
 **2026**
 
-- *Project title.* Student Name. Co-supervised with Name. <!-- omit the co-supervision clause where it doesn't apply -->
-- *Project title.* Student Name.
+- *Project title.* Student Name. Co-supervised with Name. 
 
 **2025**
 
@@ -71,29 +65,4 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 
 - *Project title.* Student Name, Student Name. <!-- group projects: list all students -->
 
-<!--
-  ON FORMAT
-
-  Two workable approaches once these lists grow:
-
-  1. Named list, as above. Best while the numbers are modest. Names credit the
-     students, and destinations ("now at ...") are the most persuasive thing on
-     any supervision list for a prospective student weighing you up.
-
-  2. Counts only, e.g. "Supervised 14 master's and 9 bachelor's projects since
-     2021, on topics including X, Y and Z." Better once the list would run past
-     roughly fifteen entries, where individual titles stop being informative and
-     the page turns into an inventory.
-
-  Whichever you choose, be consistent between the two subsections.
-
-  ASK FIRST before naming students publicly, the same as for the doctoral
-  candidates. If someone would rather not appear, drop to counts for that year
-  rather than leaving a conspicuous gap.
--->
-
-<!--
-  Committees and service are on the talks page, under "Service" — there is no
-  CV page. Don't duplicate them here.
--->
 
