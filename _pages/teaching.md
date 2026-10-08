@@ -23,9 +23,11 @@ nav_order: 6
 Lectures given within courses taught by others.
 
 **2026**
+- *Introduction to AI* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [BIO510](https://www.uis.no/en/course/BIO510_1?semester=2026H), University of Stavanger. April 2026.
 
 
 **2025**
+- *Introduction to AI* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [BIO510](https://www.uis.no/en/course/BIO510_1?semester=2026H), University of Stavanger. April 2025.
 
 
 **2024**
