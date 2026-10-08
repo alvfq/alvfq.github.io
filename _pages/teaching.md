@@ -30,10 +30,12 @@ Lectures given within courses taught by others.
 **2025**
 - *Generative AI for PhD candidates and researchers* **Content:** Introduction to generative AI and possibilities within research **Course:** [PhD complete, library UiS](https://www.uis.no/en/research/events/how-to-navigate-genai-as-a-phd), University of Stavanger. March 2025.
 - *Introduction to AI* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [BIO510](https://www.uis.no/en/course/BIO510_1?semester=2026H), University of Stavanger. April 2025.
+- *Ethics of AI in research* **Content:** Introduction to responsible use of AI in research **Course:** [DUH205](https://www.uis.no/nb/student/course/DUH205_1%26), University of Stavanger. October 2025.
 - *Generative AI for PhD candidates and researchers* **Content:** Introduction to generative AI and possibilities within research **Course:** [PhD complete, library UiS](https://www.uis.no/en/research/events/genai-for-phd-students-dos-and-donts), University of Stavanger. November 2025.
 
 
 **2024**
+- *Ethics of AI in research* **Content:** Introduction to responsible use of AI in research **Course:** [DUH205](https://www.uis.no/nb/student/course/DUH205_1%26), University of Stavanger. October 2024.
 - *Artificial Intelligence: friend or foe?* **Content:** Introduction to artificial intelligence, machine learning and deep learning, **Course:** [E-MBA270](https://www.uis.no/nb/evu/studietilbud/endringsledelse-e-mba270), University of Stavanger. May 2024.
 - *Generative AI for PhD candidates and researchers* **Content:** Introduction to generative AI and possibilities within research **Course:** [PhD complete, library UiS](), University of Stavanger. November 2024.
 
