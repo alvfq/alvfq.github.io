@@ -90,6 +90,7 @@ toc:
 - Panelist, [*The Northern Lights Conference (NLDL)*](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Organization**: NLDL, UiT, **Place**: Tromsø, January 2024.
 
 - Board member 2024-now, [NOBIM](https://www.nobim.no)
+- Board member 2026-now, [KI-utvalg, internal group working on AI and guidelines at UiS](https://www.uis.no/nb/om-uis/kunstig-intelligens-pa-uis)
 - Board member 2024-now, [NORA Startup](https://www.nora.ai/nora-startup/)
 - Board member 2025-now, [European Consortium of AI in education](https://www.eciu.eu/news/eciu-ai-in-education-webinar)
 - Leader of research network 2024-now, [Stavanger AI Lab](https://www.uis.no/nb/forskning/stavanger-ai-lab/teknologi-og-naturvitenskap/stavanger-ai-lab) 
