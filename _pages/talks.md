@@ -80,20 +80,19 @@ toc:
 ---
 ## Organising and service
 
-**2026**
-
-- *Workshop title.* Role (organiser, co-organiser, tutorial lead). Venue, City. Month 2026.
-
 <!--
   Programme committees, area chairing, reviewing, session chairing, panels,
   editorial roles. Your positioning document lists these as still to be filled
   in. They belong here or on the CV — pick one, not both.
 -->
-
+- Program chair, [*AI-day: AI-driven innovation for the ICT sector*], **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
+- Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
+- Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
+- Program chair, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025
 - Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024
-- Programme committee, *Conference name*, 2026.
-- Reviewer, *Journal name*.
+- Panelist, [*The Northern Lights Conference (NLDL)*](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Organization**: NLDL, UiT, **Place**: Tromsø, January 2024.
 
+- Reviewer, *Journal name*.
 ---
 
 <!--
