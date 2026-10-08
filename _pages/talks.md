@@ -84,6 +84,7 @@ toc:
 - Program chair, [*AI-day: AI-driven innovation for the ICT sector*](), **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
 - Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
 - Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
+- Program committee, [*Arendalsuka*](https://www.arendalsuka.no/program/ai-agentene-kommer-sikkerhet-og-beredskap), **Organization**: Næringsforeningen and others, **Place**: Arendal, August 2026
 - Program chair, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025
 - Organization committee [*CuttingEdge AI in healthcare*](https://www.nora.ai/events/2025/cuttingedgeai-ai-in-healthcare-stavanger.html),**Organization**: NORA and Stavanger AI Lab, **Place**: Stavanger, April 2025.
 - Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024
