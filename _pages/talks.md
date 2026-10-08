@@ -80,7 +80,7 @@ toc:
 ---
 ## Organising and service
 
-- Program chair, [*AI-day: AI-driven innovation for the ICT sector*], **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
+- Program chair, [*AI-day: AI-driven innovation for the ICT sector*](), **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
 - Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
 - Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
 - Program chair, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025
