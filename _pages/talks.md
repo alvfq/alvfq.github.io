@@ -60,7 +60,8 @@ toc:
 
 **2026**
 
-- *Title of the paper.* Conference name (abbreviation), City, Country. Month 2026. [Slides](/assets/pdf/slides.pdf) · [Poster](/assets/pdf/poster.pdf)
+- *Technically plausible but clinically misleading? Expert evaluation of patient-personalized synthetic prostate MRI* The 15th Scandinavian conference on AI (SCAI), Odense, Denmark. June 2026.
+- *Neuropsychiatric deviations from normative profiles: An MRI-derived marker for early Alzheimer disease detection* International Symposium on Biomedical Image Analysis (IEEE ISBI), London, United Kingdom. April 2026.
 
 **2025**
 - *Conference on Educational Process Data: Recommender systems in the era of LL(V)Ms* **Content**: How can LL(V)Ms be leveraged as recommender/decision-support systems, and why is this interesting compared to the alternatives? **Place**: University of Stavanger, Stavanger (Norway) **Organization**: [University of Stavanger](https://www.uis.no/en/about-uis/events/conference-on-educational-process-data), **Audience**: Researchers, academic and teachers **Language**: English, September 2025.
