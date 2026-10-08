@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Talks and Service
 description: Invited talks, conference presentations and other community service.
 nav: true
 nav_order: 4
