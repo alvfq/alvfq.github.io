@@ -46,7 +46,7 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 ---
 
-## Collaborations and funding
+## Funding
 
 <!--
   Clinical partners, funders, grant income, international collaborations.
@@ -56,7 +56,4 @@ I approach this from a user-centred perspective, with a focus on decision-suppor
 
 ## Openings
 
-<!--
-  Whether you have positions, what you are looking for, how to apply.
-  If none, say so — it saves everyone time.
--->
+For now, there are no openings.
