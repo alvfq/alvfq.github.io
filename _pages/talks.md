@@ -80,11 +80,6 @@ toc:
 ---
 ## Organising and service
 
-<!--
-  Programme committees, area chairing, reviewing, session chairing, panels,
-  editorial roles. Your positioning document lists these as still to be filled
-  in. They belong here or on the CV — pick one, not both.
--->
 - Program chair, [*AI-day: AI-driven innovation for the ICT sector*], **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
 - Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
 - Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
@@ -92,7 +87,12 @@ toc:
 - Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024
 - Panelist, [*The Northern Lights Conference (NLDL)*](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Organization**: NLDL, UiT, **Place**: Tromsø, January 2024.
 
-- Reviewer, *Journal name*.
+- Associate editor, [*Scientific reports*](https://www.nature.com/srep/)
+
+- Reviewer, [*Insights into imaging*](https://link.springer.com/journal/13244).
+- Reviewer, [*MICCAI*](https://miccai.org).
+- Reviewer, [*BMC medical informatics and decision making*](https://link.springer.com/journal/12911)
+- Reviewer, [*npj digital medicine*](https://www.nature.com/npjdigitalmed/)
 ---
 
 <!--
