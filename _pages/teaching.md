@@ -61,24 +61,24 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 ### Master's projects
 
 **2026**
-- *Solo or team player in clinical early detection? An AI perspective* Sigurd Heggemoen.
-- *Reconsidering AI explanations in cancer detection* Andreas Solvang Nese.
+- *Solo or team player in clinical early detection? An AI perspective*. Sigurd Heggemoen.
+- *Reconsidering AI explanations in cancer detection*. Andreas Solvang Nese.
 
 **2025**
-- *RAG and mRAG for PC diagnosis* Narve Nordås. 
-- *Vision language models for PC diagnosis* Magnus Mikkelsen. 
-- *Prostate Age Gap (PAG) biomarker simulated utility study with Stavanger University Hospital* Magnus Dahle. 
-- *Generating fake EEG with AI for neurodegenerative diseases* Tord Martin and Tim Niklass. 
+- *RAG and mRAG for PC diagnosis*. Narve Nordås. 
+- *Vision language models for PC diagnosis*. Magnus Mikkelsen. 
+- *Prostate Age Gap (PAG) biomarker simulated utility study with Stavanger University Hospital*. Magnus Dahle. 
+- *Generating fake EEG with AI for neurodegenerative diseases*. Tord Martin and Tim Niklass. 
 
 **2024**
-- *Deep learning for Alzheimer's disease detection from sMRI: A fairness perspective* Ayoop Ali. 
-- *Robust prostate segmentation with statistical guarantees* Marius Gade. 
-- *Interpretable AI in prostate cancer through radiomic features* Sondre Harjo.
-- *Effect of prostate MRI technical acquisition in segmentation results* Tapas Dev.
+- *Deep learning for Alzheimer's disease detection from sMRI: A fairness perspective*. Ayoop Ali. 
+- *Robust prostate segmentation with statistical guarantees*. Marius Gade. 
+- *Interpretable AI in prostate cancer through radiomic features*. Sondre Harjo.
+- *Effect of prostate MRI technical acquisition in segmentation results*. Tapas Dev.
 
 **2023**
-- *Uncertainty quantification in medical segmentation* Kevin Mekhaphan Nguyen.
-- *Automated computerized 2D and 3D characterization of tumors* Rihan Alzurkani.
+- *Uncertainty quantification in medical segmentation*. Kevin Mekhaphan Nguyen.
+- *Automated computerized 2D and 3D characterization of tumors*. Rihan Alzurkani.
 
 ### Bachelor's projects
 
