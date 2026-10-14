@@ -61,7 +61,7 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 ### Master's projects
 
 **2026**
-- *Solo or team player in clinical early detection? An AI perspective*. Sigurd Heggemoen.
+- *Solo or team player in clinical early detection? An AI perspective*. Sigurd Heggemoen. Co-supervised with Aleksandra S.
 - *Reconsidering AI explanations in cancer detection*. Andreas Solvang Nese.
 
 **2025**
