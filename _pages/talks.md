@@ -81,11 +81,11 @@ toc:
 ---
 ## Organising and service
 
-- Program chair, [*AI-day: AI-driven innovation for the ICT sector*](), **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
+- Organization committee, [*AI-day: AI-driven innovation for the ICT sector*](https://www.uis.no/en/research/events/stavanger-ai-lab/technology-and-natural-sciences/aict-ai-driven-innovation-for-the), **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
 - Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
 - Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
 - Program committee, [*Arendalsuka*](https://www.arendalsuka.no/program/ai-agentene-kommer-sikkerhet-og-beredskap), **Organization**: Næringsforeningen and others, **Place**: Arendal, August 2026
-- Program chair, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025
+- Organization committee, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025
 - Jury member, [*SheSteams Hackathon by PWN Norway*](https://www.pwnglobal.net/c/pwn-norway), **Organization**: PWN Norway, **Place**: Stavanger, October 2025.
 - Organization committee [*CuttingEdge AI in healthcare*](https://www.nora.ai/events/2025/cuttingedgeai-ai-in-healthcare-stavanger.html),**Organization**: NORA and Stavanger AI Lab, **Place**: Stavanger, April 2025.
 - Organization member and jury, [*SAILxBaseline Hackathon*](https://www.nora.ai/events/2024/hackathon.html), **Organization**: SAIL, Baseline energy and Lyse, **Place**: Stavanger, September 2024
