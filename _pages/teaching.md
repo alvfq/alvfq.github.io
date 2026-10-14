@@ -68,7 +68,7 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 - *RAG and mRAG for PC diagnosis*. Narve Nordås. 
 - *Vision language models for PC diagnosis*. Magnus Mikkelsen. 
 - *Prostate Age Gap (PAG) biomarker simulated utility study with Stavanger University Hospital*. Magnus Dahle. 
-- *Generating fake EEG with AI for neurodegenerative diseases*. Tord Martin and Tim Niklass. 
+- *Generating fake EEG with AI for neurodegenerative diseases*. Tord Martin and Tim Niklass. Co-supervised with Alberto J.
 
 **2024**
 - *Deep learning for Alzheimer's disease detection from sMRI: A fairness perspective*. Ayoop Ali. 
@@ -83,7 +83,31 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 ### Bachelor's projects
 
 **2026**
+- *Early AD detection via modern AI systems*. Jahad Ahmed Hamidi and Ruhan Reza.
+- *Who are you? AI chatbots in cancer detection*. Adrien Dietrichs, Bjarte Landråk and Nathaniel Solon Pedersen. Co-supervised with Aleksandra S.
+- *SkepticAI: Why should I trust you for cancer detection?*. Dorte Einevoll and Sofie Hatlen Førland.
 
-- *Project title.* Student Name, Student Name. <!-- group projects: list all students -->
+**2025**
+- *Neuropsychiatric symptoms in individuals at risk of dementia*. Lisa Ramona and Synne Hjertager. 
+- *How dare you? Differences in oncological radiology*.Lars Olav and Stein Are. Co-supervised with Petra G.
+- *AI for text analysis in dementia-related diseases*. Gowindage Lisan and Preben Skjelbred. Co-supervised with Petra G.
+- *Evaluating fake medical images in oncological radiology*. Gabriel Paulo Magalang Israel. 
+- *Behave, please! Analyzing AI systems in oncological radiology*. Gard Vigre and Thomas Horpestad. 
+- *PC detection benchmarking*. Yadana Thei.
+
+**2024**
+- *Robust EEG analysis of Parkinson's disease: A machine learning approach*. Fredrik Nilsen and Andreas Solvang. Co-supervised with Anna K.
+- *Artificial intelligence-based EEG analysis of Parkinson's disease: A deep learning approach*. Stian Vedelden and Sigurd Heggemoen. Co-supervised with Anna K.
+- *Robust visual explainability through uncertainty quantification for DL-based detection of Alzheimer's disease from sMRI*. Kjell Reidar.
+
+**2023**
+- *Exploring the potential use of convolutional neural networks for clinically significant prostate cancer through the lens of age*. Kristoffer Kristensen and Juan Sebastian Cardenas.
+- *Multi-planar segmentation of prostate MRI images*. Tord Martin and Tim Nikolass.
+- *Exploring transformers for automatic tumor segmentation in prostate cancer*. Helene Sandven Sandblåst and Magnus Mikkelsen.
+- *Learning to recommend buipsies for prostate cancer with deep learning*. Erlend Sortland and Philip Thangngat.
+- *Automatic DFØ bill recognition based on deep learning*. Fredrik Preus Dovland, Isak Fagerjord and Stefan Tasic. Co-supervised with Ivan-Louis Miranda (DFØ).
+
+
+ <!-- group projects: list all students -->
 
 
