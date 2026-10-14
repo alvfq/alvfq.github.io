@@ -58,7 +58,7 @@ Sessions I have taught outside the regular course catalogue, including conferenc
 
 Doctoral supervision is listed on the [research](/research/) page, alongside the research direction each candidate contributes to.
 
-### Master's projects
+### Master's projects (University of Stavanger)
 
 **2026**
 - *Solo or team player in clinical early detection? An AI perspective*. Sigurd Heggemoen. Co-supervised with Aleksandra S.
@@ -80,7 +80,7 @@ Doctoral supervision is listed on the [research](/research/) page, alongside the
 - *Uncertainty quantification in medical segmentation*. Kevin Mekhaphan Nguyen.
 - *Automated computerized 2D and 3D characterization of tumors*. Rihan Alzurkani.
 
-### Bachelor's projects
+### Bachelor's projects (University of Stavanger)
 
 **2026**
 - *Early AD detection via modern AI systems*. Jahad Ahmed Hamidi and Ruhan Reza.
