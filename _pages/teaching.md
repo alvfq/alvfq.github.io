@@ -46,8 +46,7 @@ Lectures given within courses taught by others.
 Sessions I have taught outside the regular course catalogue, including conference tutorials, summer schools, and training for clinical or industry audiences.
 
 **2026**
-
-**2025**
+- *Aligning to whom, and for what purpose?* **Content**: Is AI truly aligned with our intentions? **Place**: Sola Hotel (NORA-HS autumn school) **Organization**: [NORA-HS](https://www.nora.ai/nora-research-school/nora-hs/), Audience: Researchers Language: English, November 2026.
 
 **2024**
 - *From instructions to insights* **Content**: Introduction to generative artificial intelligence, prompting and agents **Place**: Næringsforeningen (Stavanger, Norway) **Organization**: [Næringsforeningen](https://www.naeringsforeningen.no), **Audience**: Industry, diverse **Language**: English, November 2024.
