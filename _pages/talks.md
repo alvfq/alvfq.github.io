@@ -105,6 +105,23 @@ toc:
 - Reviewer, [*BMC medical informatics and decision making*](https://link.springer.com/journal/12911)
 - Reviewer, [*npj digital medicine*](https://www.nature.com/npjdigitalmed/)
 
+## Examination and assessment
+
+### Doctoral committees
+
+- Member, mid-term PhD evaluation committee, *Henrik Brådland*, [UiA](https://www.uia.no/?gad_source=1&gad_campaignid=21986142626&gbraid=0AAAAA-hxgrnn-xvjpkL17UutQ660_GQnj&gclid=CjwKCAjwotzWBhBFEiwA1JhPoIsahfvlhD2OvjPVTBm15j1dnyp9Bgt90zKWK0P2_uv3ce7SBD2s9RoC-2oQAvD_BwE), October 2026.
+- Opponent (first), *Alexandros Patsanis*, [NTNU](https://www.ntnu.no), February 2026.
+- Member, 90% evaluation PhD committee *Henrik Wethe Koch*, [UiS](https://www.uis.no/nb), March 2025.
+- Member, 90% evaluation PhD committee *Alberto Jaramillo*, [UiS](https://www.uis.no/nb), February 2024.
+
+### External examining
+
+- External examiner, master's theses, University of Agder, 2023–present.
+- External examiner, bachelor's theses, University of Agder, 2023–present.
+
+### Programme and course evaluation
+- Course quality evaluator, [Introduction to AI](https://www.hivolda.no/emne/KIP101), Høgskulen i Volda, September 2025.
+- Course quality evaluator, [Introduction to AI](https://studiekatalog.edutorium.no/inn/nb/course/KIUA1000/2024-autumn), Inland Norway University of Applied Science, August 2024.
 
 <!--
   ============================================================================
