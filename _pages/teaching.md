@@ -58,6 +58,14 @@ Sessions I have taught outside the regular course catalogue, including conferenc
 
 Doctoral supervision is listed on the [research](/research/) page, alongside the research direction each candidate contributes to.
 
+### Research internships
+
+**2026**
+
+- *Advanced Machine Learning for mechanical engineering applications* Jakub Polkowski (PhD), Erasmus+ placement from University of Technology Warszawa. Spring 2025.
+- *Impact of SAIL locally and regionally* Hirosha Lakmali (Master). 2024-2025.
+- *Impact of SAIL locally and regionally* Patricia Mendez Garcia (Master). 2024-2025.
+
 ### Master's projects (University of Stavanger)
 
 **2026**
