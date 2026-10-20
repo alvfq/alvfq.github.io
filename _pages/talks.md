@@ -76,7 +76,7 @@ toc:
 
 **2026**
 
-- *Alt om Stavanger AI Lab.* [AIAvisen]((https://aiavisen.no/stavanger-ai-lab/)), **Language**: Norwegian, October 2026.
+- *Alt om Stavanger AI Lab.* [AIAvisen](https://aiavisen.no/stavanger-ai-lab/), **Language**: Norwegian, October 2026.
 - *Slik har du aldri sett Haaland: – Det er kontrasten som gjør det morsomt* [Stavanger Aftenblad](https://www.aftenbladet.no/lokalt/i/d4MnVq/har-du-ogsaa-faatt-opp-disse-haaland-videoene), **Language**: Norwegian, July 2026.
 - *Spillenes KI manipulerer barn og skaper avhengighet i sanntid: – Det er jo farlig* [Rogalands Avis Stavanger](https://www.rastavanger.no/slik-manipuleres-barna-dine-til-a-bruke-penger-spillene-skaper-avhengighet-i-sanntid-barn-manipuleres-og-blir-spillavhengige-i-sanntid-det-er-jo-farlig/s/5-165-238218), **Language**: Norwegian, March 2026.
 - *Meldinger i Messenger kan brukes til KI-trening – dette må du vite* [Stavanger Aftenblad](https://www.aftenbladet.no/lokalt/i/QMeeK8/messenger-meldingene-dine-kan-brukes-i-ki-trening?utm_source=iosapp&utm_medium=share), **Language**: Norwegian, July 2025.
