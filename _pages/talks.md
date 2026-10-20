@@ -88,6 +88,7 @@ toc:
 ---
 ## Organising and service
 
+### Events, panels and juries
 - Organization committee, [*AI-day: AI-driven innovation for the ICT sector*](https://www.uis.no/en/research/events/stavanger-ai-lab/technology-and-natural-sciences/aict-ai-driven-innovation-for-the), **Organization**: Stavanger AI Lab, UiS, **Place**: Nærinsforeningen, November 2026
 - Panelist, [*PRESIMAL*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html](https://mmiv.no/presimal/)), **Organization**: HV and UiB, **Place**: Sola, November 2026
 - Program committee, [*NORA-HS Autumn school*](https://www.nora.ai/nora-research-school/education-programs/autumn-school/autumn-school-2026.html), **Organization**: NORA, **Place**: Sola, November 2026
@@ -99,12 +100,14 @@ toc:
 - Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024
 - Panelist, [*The Northern Lights Conference (NLDL)*](https://www.nldl.org/nldl-2024/diversity-in-ai-2024), **Organization**: NLDL, UiT, **Place**: Tromsø, January 2024.
 
+### Boards and leadership
 - Board member 2024-now, [NOBIM](https://www.nobim.no)
 - Board member 2026-now, [KI-utvalg, internal group working on AI and guidelines at UiS](https://www.uis.no/nb/om-uis/kunstig-intelligens-pa-uis)
 - Board member 2024-now, [NORA Startup](https://www.nora.ai/nora-startup/)
 - Board member 2025-now, [European Consortium of AI in education](https://www.eciu.eu/news/eciu-ai-in-education-webinar)
 - Leader of research network 2024-now, [Stavanger AI Lab](https://www.uis.no/nb/forskning/stavanger-ai-lab/teknologi-og-naturvitenskap/stavanger-ai-lab) 
 
+### Editorial and reviewing
 - Associate editor, [*Scientific reports*](https://www.nature.com/srep/)
 
 - Reviewer, [*Insights into imaging*](https://link.springer.com/journal/13244).
