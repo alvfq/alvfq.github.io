@@ -96,6 +96,7 @@ toc:
 - Organization committee, [*AI-day: AI-driven innovation in Norway*](https://www.uis.no/sites/default/files/2025-10/AI_day_Panel_debate.pdf), **Organization**: Stavanger AI Lab, UiS, **Place**: Stavanger, November 2025.
 - Jury member, [*SheSteams Hackathon by PWN Norway*](https://www.pwnglobal.net/c/pwn-norway), **Organization**: PWN Norway, **Place**: Stavanger, October 2025.
 - Organization committee [*CuttingEdge AI in healthcare*](https://www.nora.ai/events/2025/cuttingedgeai-ai-in-healthcare-stavanger.html),**Organization**: NORA and Stavanger AI Lab, **Place**: Stavanger, April 2025.
+- Panelist, [*AI after dark*](https://www.uis.no/en/student-pages/events/ai-after-dark), **Organization**: UiS library x SAIL, **Place**: Stavanger, September 2024.
 - Organization member and jury, [*SAILxBaseline Hackathon*](https://www.nora.ai/events/2024/hackathon.html), **Organization**: SAIL, Baseline energy and Lyse, **Place**: Stavanger, September 2024.
 - Panel moderator, [*Innovate with AI, how and why?*](https://nordicedge.org/events/innovate-with-artificial-intelligence-how-and-why/), **Organization**: NordicEdge, **Place**: Stavanger, April 2024.
 - Panelist, [*Who owns the future of AI?*](https://www.uis.no/en/about-uis/who-owns-the-future-of-ai), **Organization**: UiS Library x SAIL, **Place**: Stavanger, March 2024.
