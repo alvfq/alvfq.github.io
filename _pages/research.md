@@ -9,7 +9,7 @@ toc:
   sidebar: left
 ---
 
-My research field is translational clinical AI. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. A model can perform well in a validation study and still not be usable by the healthcare users and context it was built for; the distance between those two points is where my work sits.
+My research field is translational clinical AI. That is, developing clinical AI systems and understanding what it takes to move them from validation into everyday clinical practice. A model can perform well in a validation study and still not be usable by the healthcare users and context it was built for. The distance between those two points is where most of my work sits.
 
 I approach this from a user-centred perspective, with a focus on decision-support systems. My work can be organized into three complementary directions:
 
