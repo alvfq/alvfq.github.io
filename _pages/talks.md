@@ -121,6 +121,7 @@ toc:
 
 ### Doctoral committees
 
+- Alternate committee member (opponent), *Claudio Martín*, [Universitat Politécnica de Valencia, UPV](https://www.upv.es/index-en.html), November 2026.
 - Member, mid-term PhD evaluation committee, *Henrik Brådland*, [UiA](https://www.uia.no/?gad_source=1&gad_campaignid=21986142626&gbraid=0AAAAA-hxgrnn-xvjpkL17UutQ660_GQnj&gclid=CjwKCAjwotzWBhBFEiwA1JhPoIsahfvlhD2OvjPVTBm15j1dnyp9Bgt90zKWK0P2_uv3ce7SBD2s9RoC-2oQAvD_BwE), October 2026.
 - Opponent (first), *Alexandros Patsanis*, [NTNU](https://www.ntnu.no), February 2026.
 - Member, 90% evaluation PhD committee *Henrik Wethe Koch*, [UiS](https://www.uis.no/nb), March 2025.
